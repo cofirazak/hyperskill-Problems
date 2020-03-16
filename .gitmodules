@@ -1,3 +1,9 @@
 [submodule "hyperskill-Problem-Multiset"]
 	path = hyperskill-Problem-Multiset
 	url = https://github.com/cofirazak/hyperskill-Problem-Multiset.git
+[submodule "hyperskill-Problem-Snail"]
+	path = hyperskill-Problem-Snail
+	url = https://github.com/cofirazak/hyperskill-Problem-Snail.git
+[submodule "hyperskill-Problem-SimulatingAClock"]
+	path = hyperskill-Problem-SimulatingAClock
+	url = https://github.com/cofirazak/hyperskill-Problem-SimulatingAClock.git
